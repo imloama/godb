@@ -1,4 +1,5 @@
 godb
 ====
 
-golang database lib
+golang database pool lib
+using mymysql driver
